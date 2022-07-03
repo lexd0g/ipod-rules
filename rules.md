@@ -35,6 +35,7 @@ Welcome to the official DankPods Community Discord guild, a place to discuss Dan
 
 **12. Politics**  
     Politics are not allowed in this server, since it usually devolves into arguments.
+EDIT: As of 2022-02-24, there is an exception to this rule allowing certain discussion about the Russian-Ukrainian conflict. More info here: https://canary.discord.com/channels/821188708321198130/821202074527203369/946297300853067816
 
 **13. Impersonation**  
     Impersonating people, including a moderator or DankPods, is not allowed.
@@ -53,4 +54,4 @@ These rules have been based very heavily on /r/iPod's rules, written by <@490609
 **Disclaimer**  
 Messages and other actions are logged by <@851055505724145684> in this guild. By sending a message, changing your nickname, or otherwise interacting in this guild, you consent to this. If you want a logged action deleted or more details, please contact a member of <@&821195811525885982>.
 
-*Last updated 2021-12-22T02:36 (UTC)*
+*Last updated 2022-04-23T09:08 (UTC)*
