@@ -12,13 +12,10 @@ Welcome to the /r/iPod Discord guild, a place to discuss iPods, audio gear, tech
 **4. Self-promotion**  
     Don't advertise your own content here. This includes streams, YT channels and Discord guild invites. This rule may not be enforced if the content is relevant to the discussion.
 
-**5. Drama**  
-    Don't bring drama from other communities here.
+**5. Drama and politics**  
+    Don't start drama or bring it here from other servers. Politics aren't allowed due to them almost always causing drama.
 
-**6. Politics**  
-    Politics are not allowed in this server, since it usually devolves into arguments.
-
-**7. Impersonation**  
+**6. Impersonation**  
     Impersonating people, such as moderators, is not allowed.
 
 
