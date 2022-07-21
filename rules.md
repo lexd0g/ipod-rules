@@ -21,7 +21,7 @@ Welcome to the /r/iPod Discord guild, a place to discuss iPods, audio gear, tech
 
 **Punishment Guidance**  
     Generally, we operate on a 4-strikes-you're-out system, where if you have four legitimate non automod warnings, you will be banned from the server.
-However, this guidance might be broken according to the acting moderator. This means that, for example, if you clearly are joining just to troll, or are posting deliberately offensive content, we may ban you on the spot, or, in the case of minimal rule breakage, we may give a non-strike verbal warning.
+However, this guidance might be broken according to the acting moderator. This means that, for example, if you clearly are joining just to troll, or are posting deliberately offensive content, we may ban you on the spot, or, in the case of minimal rule breakage, we may give a non-strike verbal warning.  
     Automoderator warnings (e.g posting a blacklisted word) don't count as strikes, neither do "joke" infractions (e.g asked to be muted/warned). Normally, if you get a legitimate strike, we will append `(X/4)` to the infraction message. Strikes may also be removed at mod discretion for continued good behaviour.
 
 **Credits**  
