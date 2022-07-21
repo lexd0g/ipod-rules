@@ -32,7 +32,8 @@ Welcome to the /r/iPod Discord guild, a place to discuss iPods, audio
    Strikes and bans may also be appealed at mod discretion.
 
 **Disclaimer**   
-   Messages and other actions are logged by <@740033569287700532>. By interacting in this guild, you consent to this. If you want a logged action deleted or more details, please contact a member of <@&693687977238331472>.
+   Messages and other actions are logged by <@740033569287700532>. By interacting in this guild, you consent to this.  
+   If you want a logged action deleted or more details, please contact a member of <@&693687977238331472>.
 
 **Credits**  
    These rules have been written by <@288524277622374403>, heavily being based on her rules for the DankPods Discord, and our past rules, which had been written by <@490609510734364692>, basing them on the GNU/FSF IRC rules. Full history of these rules can be found at <https://github.com/lexd0g/ipod-rules>.
