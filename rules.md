@@ -22,7 +22,7 @@ Welcome to the /r/iPod Discord guild, a place to discuss iPods, audio gear, tech
     Impersonating people, such as moderators, is not allowed.
 
 
-**Punishment Guidance**
+**Punishment Guidance**  
     Generally, we operate on a 4-strikes-you're-out system, where if you have four legitimate non automod warnings, you will be banned from the server.
 However, this guidance might be broken according to the acting moderator. This means that, for example, if you clearly are joining just to troll, or are posting deliberately offensive content, we may ban you on the spot, or, in the case of minimal rule breakage, we may give a non-strike verbal warning.
 
