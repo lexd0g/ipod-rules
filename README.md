@@ -1,6 +1,6 @@
 # About
 
-This repository hosts the rules for the [/r/iPod Discord](https://discord.gg/ipod)
+This repository hosts the rules for the [/r/iPod Discord](https://discord.gg/ipod).
 
 # Rules
 
